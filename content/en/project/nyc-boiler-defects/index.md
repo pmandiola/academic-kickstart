@@ -7,6 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2019-06-02T11:23:35-04:00
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/cyrusblankinship/NYC_Boiler_Defect_Prediction"

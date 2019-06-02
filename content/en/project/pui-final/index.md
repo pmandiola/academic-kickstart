@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Job access effect on housing prices"
-summary: "Estimating housing price change in NYC based on expected new jobs in office developments"
+title: "Environment effect on school performance"
+summary: "Modeling school performance of NYC students as a function of crime, drugs, and living conditions"
 authors: []
 tags: []
 categories: []
-date: 2019-06-02T11:33:04-04:00
-weight: 85
+date: 2019-06-02T13:59:49-04:00
+weight: 95
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/devashish2002/HousingPrice-JobAccess_relationship"
+external_link: "https://github.com/pmandiola/pui_final"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/devashish2002/HousingPrice-JobAccess_relationship"
+url_code: "https://github.com/pmandiola/pui_final"
 url_pdf: ""
 url_slides: ""
 url_video: ""

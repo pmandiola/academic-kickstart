@@ -7,6 +7,7 @@ authors: []
 tags: []
 categories: []
 date: 2019-06-02T11:14:07-04:00
+weight: 90
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/pmandiola/nycsecondavesubway"
