@@ -1,9 +1,11 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo -e "\033[0;32mBuilding project...\033[0m"
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+
+echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Add changes to git.
 git add .
@@ -20,6 +22,8 @@ git push origin master
 
 # Go To Public folder
 cd public
+
+echo -e "\033[0;32mDeploying website...\033[0m"
 
 # Add changes to git.
 git add .
