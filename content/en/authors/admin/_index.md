@@ -58,7 +58,7 @@ social:
   link: https://github.com/pmandiola
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: https://pmandiola.com/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
