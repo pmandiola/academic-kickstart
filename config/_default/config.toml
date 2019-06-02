@@ -16,7 +16,7 @@ baseurl = "https://pmandiola.github.io/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-141287416-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
