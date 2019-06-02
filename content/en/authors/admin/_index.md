@@ -14,10 +14,10 @@ role: Civic Analytics Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: NYU Marron Institute
-  url: "https://marroninstitute.nyu.edu/"
 - name: Urban Intelligence Lab
   url: "http://www.urbanintelligencelab.org/"
+- name: NYU Marron Institute
+  url: "https://marroninstitute.nyu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
