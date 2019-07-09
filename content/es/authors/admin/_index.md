@@ -35,8 +35,8 @@ education:
   - course: Master of Public Administration
     institution: Columbia University
     year: 2018
-  - course: BS Industrial Engineering
-    institution: Pontificia Universidad Católica de Chile
+  - course: Ingeniería Industrial TI
+    institution: Pontificia Universidad Católica
     year: 2011
 
 # Social/Academic Networking
@@ -58,7 +58,7 @@ social:
   link: https://github.com/pmandiola
 - icon: cv
   icon_pack: ai
-  link: https://pmandiola.com/files/CV_Pablo_Mandiola_es.pdf
+  link: https://pmandiola.com/files/CV_Pablo_Mandiola_en.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a technology professional and aspiring urban data scientist with over 3 years of experience implementing digital products in the public and private sector. I am passionate about the power of data, innovation and technology to transform urban life and improve how governments work for their citizens.
+Soy Ingeniero TI aspirante a Data Scientist con 4 años de experiencia implementando productos digitales en el sector público y privado. Me apasiona el poder de los datos, innovación y tecnología para transformar las ciudades y la manera en que el gobierno trabaja para las personas.
