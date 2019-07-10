@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "2nd Ave Subway impact"
-summary: "Timeseries analysis to assess the impact of the NYC Second Ave Subway on taxi ridership"
+summary: "Time series analysis to assess the impact of the NYC Second Ave Subway on taxi ridership"
 authors: []
 tags: []
 categories: []

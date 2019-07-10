@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Soy ingeniero TI y (aspirante a) urban data scientist con 4 años de experiencia implementando productos digitales en el sector público y privado. Me apasiona el poder de los datos, innovación y tecnología para transformar las ciudades y la manera en que el gobierno trabaja para las personas.
+Soy ingeniero TI y aspirante a urban data scientist con 4 años de experiencia implementando productos digitales en el sector público y privado. Me apasiona el poder de los datos, innovación y tecnología para transformar las ciudades y la manera en que el gobierno trabaja para las personas.

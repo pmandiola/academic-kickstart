@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2nd Ave Subway impact"
-summary: "Time series analysis to assess the impact of the NYC Second Ave Subway on taxi ridership"
+title: "FDNY EMS response time analysis"
+summary: "Analysis of FDNY EMS response times to identify patterns using time series analysis and clustering"
 authors: []
 tags: []
 categories: []
-date: 2019-06-02T11:14:07-04:00
-weight: 90
+date: 2019-07-09T23:12:13-04:00
+weight: 30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/pmandiola/nycsecondavesubway"
+external_link: "https://github.com/pmandiola/fdny-ems-data-exploration"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/pmandiola/nycsecondavesubway"
+url_code: "https://github.com/pmandiola/fdny-ems-data-exploration"
 url_pdf: ""
 url_slides: ""
 url_video: ""
