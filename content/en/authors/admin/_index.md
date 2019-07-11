@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a technology professional and aspiring urban data scientist with over 3 years of experience implementing digital products in the public and private sector. I am passionate about the power of data, innovation and technology to transform urban life and improve how governments work for their citizens.
+I am a technology professional and urban data scientist with 4 years of experience implementing digital products in the public and private sector. I am passionate about the power of data, innovation and technology to transform urban life and improve how governments work for their citizens.
